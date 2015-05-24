@@ -1,0 +1,21 @@
+.title-logo{
+    max-height: 25%;
+    max-width: 25%;
+}
+hr{
+    border: 1px solid black;
+}
+.fon{
+   height: 500px;
+   width: 1500px;
+}
+h1{
+    font-weight: bold;
+}
+.embed-responsive-16by9{
+    max-height: 100px;
+    width: 1000px;
+}
+body{
+	background-color: darkgray;
+}
